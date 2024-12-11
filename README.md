@@ -77,9 +77,9 @@ By analyzing the dataset, which was only seen in numbers, through various proces
 
 ## Reference
 
-2024 Worlds Dataset
+- 2024 Worlds Dataset
 https://oracleselixir.com/stats/champions/byTournament/2024%20Season%20World%20Championship%2FMain%20Event
-Chatgpt
+- Chatgpt
 ## License
 
 MIT
